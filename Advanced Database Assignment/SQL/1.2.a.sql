@@ -1,0 +1,1 @@
+SELECT * FROM deposit where store = 'Seaham'
