@@ -3,7 +3,7 @@ This contains the asignment I submitted for my **Advanced Mobile Development** m
 
 ## Contents
 
-### report
+### report.pdf
 This contains the report that I wrote about this app.
 
 ### Everything Else
