@@ -12,10 +12,10 @@ This is the written part of my dissertation
 This contains the **Python** for my Keras data model.
 
 ### Sprint1
-This contains the preprocessing for an image for PyTesseract to use.
+This contains the **Python** for the preprocessing for an image for PyTesseract to use.
 
 ### Sprint2 
-This contains the code for Pytesseract to process an image, as well as some basic preprocessing
+This contains the **Python** for Pytesseract to process an image, as well as some basic preprocessing
 
 ### Sprint3
-This contains Sprint 1 and Sprint 2 merged together with some minor changes to make them work together to create the final product.
+This contains the **Python** from Sprint 1 and Sprint 2 merged together with some minor changes to make them work together to create the final product.
