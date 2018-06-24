@@ -1,22 +1,19 @@
-# Year-3-Uni-Work
-This Github repository contains my work that I undertook in my final year of study at the University of Sunderland.
+# Advanced Database Assignment
+This contains the asignment I submitted for my **Advanced Database** module, it contains the **SQL** that I wrote as well as supporting documents.
 
 ## Contents
 
-### Advanced Database Assignment
-This contains the asignment I submitted for my **Advanced Database** module, it contains the **SQL** that I wrote as well as supporting documents.
+### SQL Folder
+This contains the SQL that I submitted.
 
-### Android App Assignment 
-This contains the asignment I submitted for my **Advanced Mobile Development** module, it contains the app that I wrote in **Java** as well as supporting documents.
+### Extended Research Abstract
+This is the research abstract that I did on Cybersecurity in Cloud Computing.
 
-### Cyber Security Assignment
-This contains the asignment I submitted for my **Advanced Cyber Security** module, it contains the password strength application that I wrote in **C#** as well as supporting documents.
+### Mini Test Question 1
+This is the mini test question that I did on different types of databases.
 
-### Dissertation
-This contains the asignment I submitted for my **Disseration**, it contains the many prototypes and final product that I created in **Python** for the programming side of my disseration as well as my actual written dissertation.
+### Portfolio Exercise 1 Relational Algebra and SQL
+This shows off some of the SQL that is in the SQL folder, along with the relationl algebra for the SQL.
 
-### Lego Minstorm Robot
-This contains the asignment I submitted for my **End of year assignment for Year 1**, it contains the program I wrote for the robot in **C#**.
-
-### Machine Learning Project
-This contains the asignment I submitted for my **Artificial Intelligence** module, it contains the WEKA files for looking at the Ensemble I created, as well as the data that I seperated into training, test and cross validation sets, as well as an excel spreadheet where I recorded my experiments with different machine learning algorithms.
+### Portfolio Exercise 4 Data Warehousing and using Oracle and MongoDB
+This shows off some of the SQL that is in the SQL folder, along with a Star Schema.
