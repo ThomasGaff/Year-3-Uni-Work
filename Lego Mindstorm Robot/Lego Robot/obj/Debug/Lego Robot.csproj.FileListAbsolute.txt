@@ -1,0 +1,42 @@
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\bin\Debug\Lego Robot.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\bin\Debug\Lego Robot.exe
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\bin\Debug\Lego Robot.pdb
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\obj\Debug\Lego Robot.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.advanced.resources
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Robot_Control.resources
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\obj\Debug\Lego Robot.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\obj\Debug\Lego Robot.exe
+c:\users\tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\obj\Debug\Lego Robot.pdb
+C:\Users\Tom\documents\visual studio 2015\Projects\Lego Robot\Lego Robot\bin\Debug\MonoBrick.dll
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\bin\Debug\Lego Robot.exe.config
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.exe
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.pdb
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\bin\Debug\Lego Robot.exe
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\bin\Debug\Lego Robot.pdb
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\bin\Debug\MonoBrick.dll
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.csprojResolveAssemblyReference.cache
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Robot_Control.resources
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Properties.Resources.resources
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\University\Robot\Lego Robot\Lego Robot\bin\Debug\Lego Robot.exe.config
+C:\Users\Tom\Documents\University\Robot\Lego Robot\Lego Robot\obj\Debug\Lego Robot.exe
+C:\Users\Tom\Documents\University\Robot\Lego Robot\Lego Robot\obj\Debug\Lego Robot.pdb
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\bin\Debug\Lego Robot.exe.config
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.exe
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.pdb
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\bin\Debug\Lego Robot.exe
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\bin\Debug\Lego Robot.pdb
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\bin\Debug\MonoBrick.dll
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Robot_Control.resources
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Properties.Resources.resources
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego Robot.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Connect.resources
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.maze.resources
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.defender.resources
+C:\Users\Tom\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.rock.resources
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.defender.resources
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.maze.resources
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.Connect.resources
+\\uos-learner\bg88vx\Desktop\Lego Robot\Lego Robot\obj\Debug\Lego_Robot.rock.resources
