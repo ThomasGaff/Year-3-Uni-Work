@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cet325.bg88vx.Home">
+
+
+    <item
+        android:id="@+id/to_store"
+        android:icon="@drawable/ic_store_black_24dp"
+        android:title="@string/action_to_store"
+        app:showAsAction="always" />
+</menu>

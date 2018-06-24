@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.cet325.bg88vx.PaintingDetail"
+    tools:showIn="@layout/activity_painting_detail">
+
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_titled"
+        android:layout_gravity="center_horizontal"
+        android:hint="Title"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_artistd"
+        android:layout_gravity="center_horizontal"
+        android:hint="Artist"
+        tools:layout_editor_absoluteY="264dp"
+        tools:layout_editor_absoluteX="279dp" />
+
+    <EditText
+        android:id="@+id/editText_yeard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:hint="Year"
+        tools:layout_editor_absoluteY="326dp"
+        tools:layout_editor_absoluteX="195dp" />
+
+    <EditText
+        android:id="@+id/editText_roomd"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:hint="Room"
+        tools:layout_editor_absoluteY="234dp"
+        tools:layout_editor_absoluteX="16dp" />
+
+    <EditText
+        android:id="@+id/editText_rankd"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:hint="Rank"
+        tools:layout_editor_absoluteY="93dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <EditText
+        android:id="@+id/editText_descd"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:hint="Description"
+        tools:layout_editor_absoluteY="158dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="231dp" />
+</android.support.constraint.ConstraintLayout>

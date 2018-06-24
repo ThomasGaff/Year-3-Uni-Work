@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.cet325.bg88vx.Home"
+    tools:showIn="@layout/activity_home">
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Our Paintings"
+        android:textAppearance="@android:style/TextAppearance.Material.Body1"
+        android:layout_marginLeft="37dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="382dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="382dp"
+        android:text="View Cultural News"
+        android:textAppearance="@android:style/TextAppearance.Material.Body1"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_paintings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:text="Painting List"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="center_vertical|left"
+        android:layout_marginLeft="31dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="410dp" />
+
+    <Button
+        android:id="@+id/button_RSS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:text="RSS Feed"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="center_vertical|right"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="410dp"
+        android:layout_marginRight="33dp"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="215dp"
+        android:layout_height="137dp"
+        android:layout_marginLeft="85dp"
+        android:layout_marginTop="182dp"
+        android:text="@string/Museum_Information"
+        android:textAppearance="@android:style/TextAppearance.Material.Body1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="138dp"
+        android:layout_marginLeft="85dp"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="215dp"
+        android:layout_height="107dp"
+        app:srcCompat="@mipmap/logo"
+        android:layout_marginLeft="85dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="16dp" />
+
+</android.support.constraint.ConstraintLayout>

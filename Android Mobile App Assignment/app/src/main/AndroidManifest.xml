@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cet325.bg88vx">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Home"
+            android:label="@string/home"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Store"
+            android:label="@string/title_activity_store"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ViewPaintings"
+            android:label="@string/title_activity_view_paintings"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name=".PaintingsProvider"
+            android:authorities="com.cet325.bg88vx"
+            android:exported="true"
+            android:readPermission="com.cet325.bg88vx.READ_DATABASE"
+            android:writePermission="com.cet325.bg88vx.WRITE_DATABASE" />
+
+        <activity
+            android:name=".RSS"
+            android:label="@string/rss"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

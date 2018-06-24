@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">bg88vx</string>
+    <string name="home">Home</string>
+    <string name="store">Store</string>
+    <string name="rss">RSS Feed</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sorting">Display by Rank</string>
+    <string name="action_sortings">Sort Options</string>
+    <string name="action_to_store">Go to Store</string>
+    <string name="to_store">Go to Store</string>
+    <string name="Museum_Name">The National Gallery</string>
+    <string name="About">About Us</string>
+    <string name="Museum_Information">The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London. Founded in 1824, it houses a collection of over 2,300 paintings dating from the mid-13th century to 1900.</string>
+    <string name="title_activity_store">Store</string>
+    <string name="title_activity_master_view">Painting List</string>
+    <string name="title_activity_view_paintings">Paintings</string>
+    <string name="title_activity_painting_detail">PaintingDetail</string>
+    <string name="title_activity_master_view_paintings">MasterViewPaintings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
